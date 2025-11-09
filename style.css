@@ -79,7 +79,6 @@
     padding-bottom: 50px;
     background-color: #f4f4f4;
     padding-left: 120px;
-    width: 100rem;
 }
 
 .f-ps{
@@ -123,7 +122,6 @@
     padding-top: 30px;
     background-color: #d0f0c0;
     padding-bottom: 20px;
-    width: 100rem;
 }
 
 .e-c{
@@ -154,16 +152,12 @@
     font-size: 25px;
     padding-top: 30px;
     background-color: #fffff0;
-    width: 100rem;
 }
 
 .h-c{
     padding-bottom: 30px;
 }
 
-.c-f{
-    width: 100rem;
-}
 .c-f h1{
     padding-top: 30px;
     display: flex;
@@ -178,7 +172,6 @@
     padding-top: 60px;
     background-color: #f5deb3;
     padding-bottom: 30px;
-    width: 100rem;
 }
 
 .e-c-f{
@@ -213,7 +206,6 @@
     background-color: #2f4f4f;
     padding-top: 70px;
     padding-bottom: 30px;
-    width: 100rem;
 }
 
 .s-i{
