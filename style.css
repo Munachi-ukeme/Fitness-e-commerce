@@ -84,8 +84,6 @@
    background-color: #dddddd; 
    border-radius: 15px;
    padding: 7px;
-    width: 100%;
-    height: auto;
 }
 
 .f-ps p{
@@ -125,8 +123,6 @@
 
 .e-c{
     border-radius: 10px;
-    width: 100%;
-    height: auto;
 }
 
 .e-c p{
@@ -177,8 +173,6 @@
     border-radius: 15px;
     background-color: #dcdcdc;
     padding-bottom: 10px;
-    width: 100%;
-    height: auto;
 }
 
 .e-c-f p{
